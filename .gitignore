@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.streamlit/
+data/sales_clean.csv
+.venv/
+venv/
