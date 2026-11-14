@@ -1,0 +1,11 @@
+id_pedido,id_cliente,data,categoria,cidade,quantidade,preco_unitario,status
+1001,501,2026-01-10,Eletrônicos,São Paulo,1,2500.00,Concluído
+1002,502,2026-01-12,Roupas,Rio de Janeiro,3,150.00,Concluído
+1003,503,2026-01-15,Casa,Belo Horizonte,2,320.00,Cancelado
+1004,501,2026-02-05,Eletrônicos,São Paulo,2,800.00,Concluído
+1005,504,2026-02-18,Livros,Curitiba,4,65.00,Concluído
+1006,505,2026-03-02,Roupas,Lavras,2,210.00,Concluído
+1007,506,2026-03-14,Eletrônicos,Belo Horizonte,1,3200.00,Concluído
+1008,502,2026-03-22,Casa,Rio de Janeiro,1,450.00,Cancelado
+1009,507,2026-04-08,Esportes,Porto Alegre,2,390.00,Concluído
+1010,508,2026-04-19,Eletrônicos,São Paulo,1,1950.00,Concluído
